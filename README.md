@@ -4,7 +4,7 @@ Proyek ini bertujuan untuk menganalisis dan memvisualisasikan data harga mobil m
 
 ## 📁 Struktur Proyek
 
-- car_prices.csv: Dataset mentah berisi informasi harga dan spesifikasi mobil.
+- `car_prices.csv`: Dataset mentah berisi informasi harga dan spesifikasi mobil.
 
 - car_prices_clean.csv: Dataset yang telah dibersihkan untuk analisis lebih lanjut.
 
