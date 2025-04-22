@@ -2,7 +2,7 @@
 
 Proyek ini bertujuan untuk menganalisis dan memvisualisasikan data harga mobil menggunakan Python dan Tableau. Dengan memanfaatkan dataset car_prices.csv, proyek ini menyajikan wawasan tentang faktor-faktor yang memengaruhi harga mobil melalui visualisasi interaktif dan analisis data.
 
-##📁 Struktur Proyek
+## 📁 Struktur Proyek
 
 - car_prices.csv: Dataset mentah berisi informasi harga dan spesifikasi mobil.
 
@@ -14,7 +14,7 @@ Proyek ini bertujuan untuk menganalisis dan memvisualisasikan data harga mobil m
 
 - Link Tableau.txt: Tautan ke dashboard interaktif yang dipublikasikan di Tableau Public.
 
-##🔍 Fitur Utama
+## 🔍 Fitur Utama
 
 - Pembersihan Data: Mengatasi nilai yang hilang dan inkonsistensi dalam dataset.
 
@@ -22,7 +22,7 @@ Proyek ini bertujuan untuk menganalisis dan memvisualisasikan data harga mobil m
 
 - Visualisasi Interaktif: Dashboard Tableau yang memungkinkan pengguna untuk mengeksplorasi data berdasarkan berbagai parameter seperti merek, tahun, dan fitur mobil.
 
-##🛠️ Teknologi yang Digunakan
+## 🛠️ Teknologi yang Digunakan
 
 - Python: Untuk pembersihan dan analisis data awal.
 
